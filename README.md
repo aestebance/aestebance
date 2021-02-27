@@ -1,4 +1,4 @@
-# ![https://github.com/aestebance](https://avatars.githubusercontent.com/u/14862968?s=460&u=076b644c44f5f06796999208e67c1a9ea86bf16e&v=4) Hello, my name is Alejandro Esteban
+# ![https://github.com/aestebance](https://github.com/aestebance/aestebance/blob/main/emote.png) Hello, my name is Alejandro Esteban
 ### Web Developer Full Stack
 ![https://github.com/aestebance](https://github.com/aestebance/aestebance/blob/main/background.png)
 
