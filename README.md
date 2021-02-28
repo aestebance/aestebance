@@ -17,7 +17,8 @@ I have a higher technical degree in computer systems administration and I´ve al
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]()
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
-[![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)]()
+[![Gitlab](https://img.shields.io/badge/Gitlab-FCA121?style=for-the-badge&logo=Gitlab&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&labelColor=101010)]()
