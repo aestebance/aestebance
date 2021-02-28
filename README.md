@@ -31,7 +31,7 @@ Spanish: Native
 
 English:
  - Reading: B2
- - writting: B2
+ - Writting: B2
  - Speaking: B1
  - Listening: B1
 
