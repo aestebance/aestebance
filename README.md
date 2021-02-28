@@ -28,6 +28,17 @@ I have a higher technical degree in computer systems administration and I´ve al
 
 And more...
 
+## Certifications:
+[![JavaScript](https://img.shields.io/badge/JavaScript_Algorithms_and_Data_Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white&labelColor=101010)](https://www.freecodecamp.org/certification/aestebance/javascript-algorithms-and-data-structures)
+[![FrontEnd](https://img.shields.io/badge/Front_End_Libraries-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white&labelColor=101010)](https://www.freecodecamp.org/certification/aestebance/front-end-libraries)
+[![APIS](https://img.shields.io/badge/APIs_and_Microservices-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white&labelColor=101010)](https://www.freecodecamp.org/certification/aestebance/apis-and-microservices)
+[![QA](https://img.shields.io/badge/Quality_Assurance-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white&labelColor=101010)](https://www.freecodecamp.org/certification/aestebance/quality-assurance-v7)
+[![Python](https://img.shields.io/badge/Scientific_Computing_with_Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white&labelColor=101010)](https://www.freecodecamp.org/certification/aestebance/scientific-computing-with-python-v7)
+
+[![ReactRedux](https://img.shields.io/badge/React_+_Redux-1ABC9C?style=for-the-badge&logo=sololearn&logoColor=white&labelColor=101010)](https://www.sololearn.com/Certificate/1097-20989752/jpg/)
+[![PHP](https://img.shields.io/badge/PHP-1ABC9C?style=for-the-badge&logo=sololearn&logoColor=white&labelColor=101010)](https://www.sololearn.com/Certificate/1059-20989752/jpg/)
+[![Javascript](https://img.shields.io/badge/Javascript-1ABC9C?style=for-the-badge&logo=sololearn&logoColor=white&labelColor=101010)](https://www.sololearn.com/certificates/course/en/20989752/1024/landscape/png)
+
 ## Languages:
 
 Spanish: Native
