@@ -26,7 +26,7 @@ I have a higher technical degree in computer systems administration and I´ve al
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
 
-And much more...
+And more...
 
 ## Languages:
 
