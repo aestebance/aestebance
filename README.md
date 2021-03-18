@@ -10,6 +10,7 @@ I have a higher technical degree in computer systems administration and I´ve al
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
+[![VueJS](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]()
 [![NodeJS](https://img.shields.io/badge/NodeJS+express-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
