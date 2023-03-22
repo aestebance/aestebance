@@ -14,7 +14,7 @@ I have a higher technical degree in computer systems administration and I´ve al
 [![Terraform](https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=101010)]()
 [![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
 [![Bamboo](https://img.shields.io/badge/bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white&labelColor=101010)]()
-[![Github Actions](https://img.shields.io/badge/github-Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=101010)]()
+[![Github Actions](https://img.shields.io/badge/github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010)]()
